@@ -1,0 +1,481 @@
+.responsiv{
+    display: flex;
+    flex-wrap: wrap;
+}
+.initial{
+    width: 1440px;
+   
+    margin: 0 auto;
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+}
+.shapka1{
+    width: 55px;
+    height: 55px;
+    top: 2px;
+    left: 120px;
+    gap: 0px;
+    border-radius: 6.35px;
+    opacity: 0px;
+    margin-left: 20px;
+    margin-top: 2.5px;
+}
+.DiscountsOnServices{
+    width: 166px;
+    height: 21px;
+    top: 19px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20.8px;
+}
+.shohjahon{
+    align-items: center;
+    gap: 15px;
+    margin: 0 auto;
+}
+#cars{
+    width: 131px;
+    height: 24px;
+    top: 18px;
+    left: 465px;
+    gap: 0px;
+    opacity: 0px;
+    border: none;
+}
+
+.asil{
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin: 0 auto;
+}
+#cars56{
+    width: 40px;
+    height: 24px;
+    border: none;
+}
+.Log{
+    width: 136px;
+    height: 40px;
+    top: 10px;
+    left: 1184px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #1749B3;
+    border: none;
+}
+.Russian{
+    width: 1440px;
+    justify-content: space-between;
+    margin: 0 auto;
+    gap: 0px;
+    opacity: 0px;
+    background: #ECF3FB;
+
+}
+.in{
+    width: 592px;
+    height: 500px;
+    border-radius: 32px;
+ 
+    background: #1749B3;
+}
+.Start{
+    width: 472px;
+    font-family: Gotham Pro;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 50.4px;
+    text-align: left;
+    color: aliceblue;
+    margin: 0 auto;
+
+
+}
+.You{
+    width: 472px;
+    font-family: Gotham Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: aliceblue;
+    margin: 0 auto;
+
+}
+.using{
+    width: 207px;
+    height: 54px;
+    top: 453px;
+    left: 180px;
+    padding: 16px;
+    gap: 10px;
+    border-radius: 16px;
+    opacity: 0px;
+    border: none;
+    margin-left: 55px; 
+    background: #FFFFFF;
+
+
+}
+.benefit{
+   
+    margin: 0 auto;
+    width: 592px;
+height: 500px;
+
+
+}
+.haggling{
+    align-items: center;
+
+}
+.special{
+    width: 592px;
+    height: 500px;
+    
+   
+}
+.subscription{
+    background: #ECF3FB;
+    width: 1440px;
+    margin: 0 auto;
+}
+.Choose{
+    width: 1440px;
+    height: 150px;
+    top: 740px;
+    left: 540px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gotham Pro;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44.8px;
+    text-align: center;
+    margin: 0 auto;
+ 
+}
+.sekshin1{
+    width: 1200px;
+    height: 342px;
+   
+    border-radius: 32px;
+   
+    background: #FFFFFF;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.a{
+
+border-radius: 32px;
+background: #000000;
+border: none;
+
+
+
+
+}
+
+.yozuv{
+    width: 440px;
+    margin: 0 auto;
+}
+.rasm1{
+    border-radius: 32px;
+    width: 588px;
+    height: 342px;
+    top: 862px;
+    left: 832px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+}
+.contributes{
+    width: 440px;
+    height: 72px;
+    top: 940px;
+    left: 180px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gotham Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+.rates{
+    width: 440px;
+    height: 36px;
+    top: 882px;
+    left: 180px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gotham Pro;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 36.4px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #171717;
+
+}
+.Learn{
+    width: 147px;
+    height: 54px;
+    top: 1050px;
+    left: 180px;
+    padding: 16px;
+    gap: 10px;
+    border-radius: 16px;
+    opacity: 0px;
+    background: #1749B3;
+    border: none;
+
+}
+.a1{
+    width: 588px;
+    height: 342px;
+    top: 1538px;
+    left: 732px;
+    gap: 0px;
+    border-radius: 32px;
+    opacity: 0px;
+    background: #E1DCEB;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.task{
+    width: 279px;
+    height: 62px;
+    top: 1678px;
+    left: 887px;
+    gap: 0px;
+    opacity: 0px;
+ 
+  
+}
+.works{
+    width: 1440px;
+    height: 605px;
+    margin: 0 auto;
+    margin-top: -22px;
+    background: #ECF3FB;
+
+}
+.How{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+
+}
+.it{
+    width: 388px;
+    height: 300px;
+    border-radius: 32px;
+    background: #FFFFFF;
+
+}
+.qongiroqca{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.Step{
+    width: 67px;
+    height: 31px;
+    top: 148px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gotham Pro;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30.8px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+.Enter{
+    width: 127px;
+height: 54px;
+
+}
+.information{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.step1{
+    height: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+.account{
+    gap: 16px;
+}
+.seksin2{
+    width: 1200px;
+    height: 203px;
+    border-radius: 32px;
+    background: #1749B3;
+    margin-top: 20px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+
+}
+.Invite{
+    width: 171px;
+height: 36px;
+font-family: Gotham Pro;
+font-size: 26px;
+font-weight: 400;
+line-height: 36.4px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+align-items: center;
+color: #FFFFFF;
+
+
+}
+.friends{
+    width: 508px;
+    height: 115px;
+    top: 44px;
+    left: 80px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+.PAYPAL{
+    width: 445px;
+height: 123px;
+top: 40px;
+left: 675px;
+gap: 0px;
+border-radius: 16px;
+opacity: 0px;
+background: #F1F4F8;
+
+}
+.YOUTUBE{
+    color: aliceblue;
+}
+.Discounts{
+   
+    justify-content: center;
+    align-items: center;
+}
+.features{
+    width: 1440px;
+    height: 4935px;
+    margin: 0 auto;
+    background: #ECF3FB;
+
+}
+.us{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.kantent{
+    width: 592px;
+    height: 535px;
+    top: 2815px;
+    left: 120px;
+    gap: 0px;
+    border-radius: 32px;
+    opacity: 0px;
+    background: #FFFFFF;
+
+}
+.economical{
+    width: 472px;
+    height: 415px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    margin: 0 auto;
+    align-items: center;
+    align-content: center;
+}
+.FAQ{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   
+}
+.class{
+    width: 1200px;
+height: 104px;
+top: 3552px;
+left: 120px;
+gap: 0px;
+border-radius: 32px;
+opacity: 0px;
+background: #FFFFFF;
+
+}
+.time{
+    width: 707px;
+    height: 27px;
+    top: 3591px;
+    left: 160px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gotham Pro;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    margin-top: 20px;
+    align-items: flex-start;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+.Payment{
+   margin-left: 10px;
+}
+.arrived{
+    width: 243px;
+    height: 54px;
+    top: 4223px;
+    left: 599px;
+    padding: 16px;
+    gap: 10px;
+    border-radius: 26px;
+    margin-top: 20px;
+    margin: 0 auto;
+    background: #333333;
+
+}
+.Support{
+    color: #ECF3FB;
+    
+}
